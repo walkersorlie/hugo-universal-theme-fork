@@ -1,7 +1,7 @@
 /* Themed colors */
 :root {
-  --primary-accent: #38a7bb;
-  --navbar-border-top: #20616d;
+  --primary-accent: #237A00;
+  --navbar-border-top: #87919E;
   --button-border: #2a7d8c;
   --link-focus: #267280;
   --form-shadow: rgba(56, 167, 187, 0.6);
@@ -243,7 +243,7 @@ ul.list-style-none {
   }
 }
 #top {
-  background: #555555;
+  background: #221D23;
   color: #eeeeee;
   padding: 10px 0;
 }
@@ -1158,7 +1158,7 @@ fieldset[disabled] .btn-template-primary.active {
 }
 .home-carousel {
   position: relative;
-  background: url('../img/photogrid.jpg') center center repeat;
+  background: url('../img/bend.jpg') center center repeat;
   background-size: cover;
   -webkit-transition: all 0.2s ease-out;
   -moz-transition: all 0.2s ease-out;
@@ -1171,7 +1171,7 @@ fieldset[disabled] .btn-template-primary.active {
   width: 100%;
   height: 100%;
   background: var(--primary-accent);
-  opacity: 0.9;
+  opacity: 0.7;
   filter: alpha(opacity=90);
 }
 .home-carousel .owl-carousel {
@@ -1468,7 +1468,7 @@ fieldset[disabled] .btn-template-primary.active {
   color: #555555;
 }
 .box-simple p {
-  color: #999999;
+  color: #221D23;
 }
 .box-simple:hover .icon {
   -webkit-transform: scale(1.1, 1.1);
@@ -2520,7 +2520,7 @@ fieldset[disabled] .btn-template-primary.active {
   margin: 0 0 20px;
 }
 #footer {
-  background: #555555;
+  background: #221D23;
   padding: 50px 0;
   color: #999999;
 }
@@ -3172,7 +3172,7 @@ body {
   font-family: "Roboto", Helvetica, Arial, sans-serif;
   font-size: 14px;
   line-height: 1.42857143;
-  color: #555555;
+  color: #221D23;
 }
 a {
   color: var(--primary-accent);
@@ -3383,7 +3383,7 @@ h6,
   font-family: "Roboto", Helvetica, Arial, sans-serif;
   font-weight: 900;
   line-height: 1.1;
-  color: #333333;
+  color: #221D23;
 }
 h1,
 .h1,
